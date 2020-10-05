@@ -1,6 +1,6 @@
 <img src="/render-jsx-logo.svg" width="300"/>
 
-# [`render-jsx`]((https://loreanvictor.github.io/render-jsx/)) JS starter project
+# [`render-jsx`](https://loreanvictor.github.io/render-jsx/) JS starter project
 
 1. use this template
 2. clone your repo and `cd` to it
