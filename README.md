@@ -1,6 +1,6 @@
 <img src="/render-jsx-logo.svg" width="300"/>
 
-# [`render-jsx`]((https://loreanvictor.github.io/render-jsx/)) JavaScript starter project
+# [`render-jsx`]((https://loreanvictor.github.io/render-jsx/)) JS starter project
 
 1. use this template
 2. clone your repo and `cd` to it
@@ -10,6 +10,8 @@
   - dev version is served on `localhost:3000` by default
 5. `npm run build` for building your web app / bundle and ship it
   - built files are in `dist/`
+
+👉 Don't forget to checkout [the docs](https://loreanvictor.github.io/render-jsx/)
 
 <br>
 
