@@ -11,7 +11,7 @@
 5. `npm run build` for building your web app / bundle and ship it
   - built files are in `dist/`
 
-👉 Don't forget to checkout [the docs](https://loreanvictor.github.io/render-jsx/)
+👉 Don't forget to checkout [the docs](https://loreanvictor.github.io/render-jsx/).
 
 <br>
 
